@@ -1,14 +1,15 @@
 # MDD-Gather-WA-Codes
 An old helper script
 
-WA codes by AP 12/26/2019
-Purpose: when we get syntax with numeric codes instead of category names, it can be painful to collect exact category names, especially when there are many different codes and if it is used frequently across specs. This tool may help you, SE!
-How to use:
-1.	Open wa_codes.html in any browser
-2.	Copy the spec string to the first field, i.e. “[9-16, 25]”, or “9-16, 25” (square brackets are optional)
-3.	Just select categories in WA with your mouse, copy it to clipboard and place to the second field
-	Example:
-		Lock stubs together. Randomize order within.
+<p>WA codes by AP 12/26/2019</p>
+<p>Purpose: when we get syntax with numeric codes instead of category names, it can be painful to collect exact category names, especially when there are many different codes and if it is used frequently across specs. This tool may help you, SE!</p>
+<p>How to use:</p>
+<ol style="list-style-type: decimal;">
+    <li>Open wa_codes.html in any browser</li>
+    <li>Copy the spec string to the first field, i.e. &ldquo;[9-16, 25]&rdquo;, or &ldquo;9-16, 25&rdquo; (square brackets are optional)</li>
+    <li>Just select categories in WA with your mouse, copy it to clipboard and place to the second field<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Example:</li>
+</ol>
+<pre>		Lock stubs together. Randomize order within.
 		Lock stubs together. Default order within.
 		1.	Walmart	Walmart		
 		2.	Walmartcom	Walmart.com		
@@ -42,5 +43,9 @@ How to use:
 		Lock stubs together. Randomize order within.
 		28.	Redbox	Redbox		
 		30.	OtherRetailers	Other retailers
-
-4.	Press “process”. In the third field you will see a string with category names
+</pre>
+<div>
+    <ol style="margin-bottom:0in;list-style-type: undefined;">
+        <li>Press &ldquo;process&rdquo;. In the third field you will see a string with category names</li>
+    </ol>
+</div>
